@@ -6,6 +6,15 @@
 
 Live Link: https://fitness-tracker-for-you.herokuapp.com/
 
+<img src="img/main_1.png">
+
+<img src="img/dashboard.png">
+
+<img src="img/main.png">
+
+
+
+
 ## Installation
 
 After clone this repository, run the following command:
